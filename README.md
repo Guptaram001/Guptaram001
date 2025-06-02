@@ -62,7 +62,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/ram-gupta-49a586b9/)
 - 🌐 [GitHub](https://github.com/Guptaram001)
 - 📊 [Kaggle](https://www.kaggle.com/rambinaygupta)
-- ✉️ Email: gupta_ram01@hotmail.com 
+- ✉️ [Email] (mailto:gupta_ram01@hotmail.com)
 
 
 <!--
