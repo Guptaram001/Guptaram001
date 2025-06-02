@@ -1,29 +1,74 @@
-## Hi there I'm Ram Binay Gupta👋
+# Hi there, I'm Ram Binay Gupta👋
 
  I have always been fascinated by how the human brain learns and adapts, but discovering that machines could emulate this remarkable capability through neural networks transformed my curiosity into passion which fuels my enthusiasm and aligns perfectly with my desire to explore, create, and push boundaries.  
 
-🎓 Research Scholar | M.Sc. Computer Science @ Philipps University Marburg, Germany  
+ ---
+
+ 💬 Always be curious, always be learning.
+
+
+## 💻 About Me
+
+🎓 Research Scholar | M.Sc. Computer Science @ Phillipps University Marburg, Germany  
 🧠 Passionate about ML, AI, NLP, and Retrieval-Augmented Generation  
 📚 Exploring Explainable AI, Multilingual Models, and Distributed System  
 🌍 Currently building metadata-aware RAG systems  
 🔍 My main focus is on Deep Neural Network for automatic content analysis of audio/video material.  
 
 
-# 👋 Hi, I'm Ram Binay Gupta
+## 🔨 Technical Skills
 
-🎓 **M.Sc. Computer Science** at [Philipps University Marburg](https://www.uni-marburg.de/)  
-🧠 **Researcher & AI Enthusiast** with a passion for:
-- Natural Language Processing (NLP)
-- Retrieval-Augmented Generation (RAG)
-- Explainable Artificial Intelligence (XAI)
+### 🧠 Languages
+- Python, Java, C, C#
 
-📌 Currently working on:
-- Metadata-aware RAG systems
-- Emotion detection using transformer models
+### ⚙️ Frameworks & Libraries
+- **Web & App**: CodeIgniter, Android Studio, Streamlit, Bootstrap, jQuery  
+- **AI/ML**: LangChain, Hugging Face Transformers, ChatGPT API  
+- **Distributed Systems**: Apache Spark, Akka
 
-💬 Always curious, always learning.
+### 📊 Data Science & AI
+- Machine Learning, Deep Neural Networks  
+- NLP, RAG, LLMs, XAI, Prompt Engineering  
+- Data Visualization: Tableau, Power BI, Matplotlib, Seaborn, Plotly
 
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/ram-gupta-49a586b9/) | [GitHub](https://github.com/Guptaram001)
+### 🗄️ Databases
+- MySQL, PostgreSQL, MongoDB, SQLite, SQL
+
+### 🌐 Web Development & Design
+- HTML, CSS, JavaScript, jQuery  
+- Bootstrap, Figma
+
+### 🛠️ Tools & Platforms
+- Git, GitHub, Jupyter Notebook, VS Code  
+- Google Colab, Linux Shell, Docker (basic)
+
+---
+
+Languages: Python, C, Java, C#
+Frameworks & Tools: CodeIgniter, Streamlit, LangChain, ChatGPT, Android Studio
+Databases: MySQL, PostgreSQL, MongoDB, SQLite, SQL
+Data Science & AI: ML, Deep Neural Network, NLP, XAI, RAG, Spark, Akka, LLMs, Data Visualization (Tableau, Power BI)
+Web Development: HTML, CSS, JavaScript, jQuery, Bootstrap, Figma
+
+
+## 🚀 Current Projects
+
+- 🔎 **Semantic Search on Historical Speech Corpus**  
+  Performing searches across a multilingual corpus of historical speeches using **Retrieval-Augmented Generation (RAG)** with **LLMs** and **Elasticsearch**.
+
+- 🎧 **Denoising Historical Audio using Deep Neural Networks**  
+  Developing models to enhance the quality and intelligibility of old, noisy speech recordings using **deep learning–based audio denoising architectures**.
+
+- 🛠️ **Automated Program Repair using Large Language Models**  
+  Investigating the potential of **LLMs** (e.g., Codex) to detect bugs and generate program patches for broken or vulnerable code automatically.
+
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ram-gupta-49a586b9/)
+- 🌐 [GitHub](https://github.com/Guptaram001)
+- 📊 [Kaggle] (https://www.kaggle.com/rambinaygupta)
+- ✉️ Email: gupta_ram01@hotmail.com 
 
 
 <!--
