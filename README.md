@@ -1,11 +1,9 @@
 # Hi there, I'm Ram Binay Gupta👋
 
  I have always been fascinated by how the human brain learns and adapts, but discovering that machines could emulate this remarkable capability through neural networks transformed my curiosity into passion which fuels my enthusiasm and aligns perfectly with my desire to explore, create, and push boundaries.  
-
+ 🧠 Always curious, always learning.  
+ 
  ---
-
- 💬 Always be curious, always be learning.
-
 
 ## 💻 About Me
 
@@ -44,13 +42,6 @@
 
 ---
 
-Languages: Python, C, Java, C#
-Frameworks & Tools: CodeIgniter, Streamlit, LangChain, ChatGPT, Android Studio
-Databases: MySQL, PostgreSQL, MongoDB, SQLite, SQL
-Data Science & AI: ML, Deep Neural Network, NLP, XAI, RAG, Spark, Akka, LLMs, Data Visualization (Tableau, Power BI)
-Web Development: HTML, CSS, JavaScript, jQuery, Bootstrap, Figma
-
-
 ## 🚀 Current Projects
 
 - 🔎 **Semantic Search on Historical Speech Corpus**  
@@ -65,9 +56,10 @@ Web Development: HTML, CSS, JavaScript, jQuery, Bootstrap, Figma
 
 ## 📫 Let's Connect!
 
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/ram-gupta-49a586b9/)
 - 🌐 [GitHub](https://github.com/Guptaram001)
-- 📊 [Kaggle] (https://www.kaggle.com/rambinaygupta)
+- 📊 [Kaggle](https://www.kaggle.com/rambinaygupta)
 - ✉️ Email: gupta_ram01@hotmail.com 
 
 
