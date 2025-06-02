@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there I'm Ram Binay Gupta👋
+🎓 Research Scholar | M.Sc. Computer Science @ Philipps University Marburg, Germany
+🧠 Passionate about ML, AI, NLP, and Retrieval-Augmented Generation
+📚 Exploring Explainable AI, Multilingual Models, and Distributed System
+🌍 Currently building metadata-aware RAG systems 
+🔍 My main focus is on Deep Neural Network for automatic content analysis of audio/video material.
 
 <!--
 **Guptaram001/Guptaram001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
