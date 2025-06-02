@@ -1,4 +1,6 @@
 ## Hi there I'm Ram Binay Gupta👋
+
+ I have always been fascinated by how the human brain learns and adapts, but discovering that machines could emulate this remarkable capability through neural networks transformed my curiosity into passion which fuels my enthusiasm and aligns perfectly with my desire to explore, create, and push boundaries. 
 🎓 Research Scholar | M.Sc. Computer Science @ Philipps University Marburg, Germany
 🧠 Passionate about ML, AI, NLP, and Retrieval-Augmented Generation
 📚 Exploring Explainable AI, Multilingual Models, and Distributed System
