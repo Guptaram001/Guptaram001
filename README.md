@@ -5,6 +5,23 @@
 🌍 Currently building metadata-aware RAG systems 
 🔍 My main focus is on Deep Neural Network for automatic content analysis of audio/video material.
 
+# 👋 Hi, I'm Ram Binay Gupta
+
+🎓 **M.Sc. Computer Science** at [Philipps University Marburg](https://www.uni-marburg.de/)  
+🧠 **Researcher & AI Enthusiast** with a passion for:
+- Natural Language Processing (NLP)
+- Retrieval-Augmented Generation (RAG)
+- Explainable Artificial Intelligence (XAI)
+
+📌 Currently working on:
+- Metadata-aware RAG systems
+- Emotion detection using transformer models
+
+💬 Always curious, always learning.
+
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/ram-gupta-49a586b9/) | [GitHub](https://github.com/Guptaram001)
+
+
 <!--
 **Guptaram001/Guptaram001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
