@@ -18,7 +18,7 @@ njkn,
 ## 🔨 Technical Skills
 dsfafdsa
 ### 🧠 Languagessdafdafs
-- Python, Java, C, C#
+- Python, Java, C, C#d#
 
 ### ⚙️ Frameworks & Libraries
 - **Web & App**: CodeIgniter, Android Studio, Streamlit, Bootstrap, jQuery  
