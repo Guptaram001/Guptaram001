@@ -13,11 +13,11 @@
 🌍 Currently building metadata-aware RAG systems  
 🔍 My main focus is on Deep Neural Network for automatic content analysis of audio/video material.  
 
- ---
+ ---dsfa
 
 ## 🔨 Technical Skills
-
-### 🧠 Languages
+dsfa
+### 🧠 Languagessdaf
 - Python, Java, C, C#
 
 ### ⚙️ Frameworks & Libraries
