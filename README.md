@@ -1,7 +1,7 @@
 # Hi there, I'm Ram Binay Gupta👋
 
  I have always been fascinated by how the human brain learns and adapts, but discovering that machines could emulate this remarkable capability through neural networks transformed my curiosity into passion which fuels my enthusiasm and aligns perfectly with my desire to explore, create, and push boundaries.  
- 🧠 Always curious, always learning.  
+ 🧠 Always curous, always learning.  
 
  ---
 
@@ -13,7 +13,7 @@
 🌍 Currently building metadata-aware RAG systems  
 🔍 My main focus is on Deep Neural Network for automatic content analysis of audio/video material.  
 
- ---dsfa
+ ---dsfafasd
 
 ## 🔨 Technical Skills
 dsfa
