@@ -17,7 +17,7 @@
 
 ## 🔨 Technical Skills
 dsfa
-### 🧠 Languagessdaf
+### 🧠 Languagessdafdafs
 - Python, Java, C, C#
 
 ### ⚙️ Frameworks & Libraries
