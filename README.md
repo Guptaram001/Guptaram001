@@ -8,13 +8,13 @@
 ## 💻 About MesadA
 
 🎓 Research Scholar | M.Sc. Computer Science @ Phillipps University Marburg, Germany  
-🧠 Passionate about ML, AI, NLP, and Retrieval-Augmented Generation  
+🧠 Passionate about ML, AIjbjh, NLP, and Retrieval-Augmented Generation  
 📚 Exploring Explainable AI, Multilingual Models, and Distributed System  
 🌍 Currently building metadata-aware RAG systems  
 🔍 My main focus is on Deep Neural Network for automatic content analysis of audio/video material.  
 
  ---dsfafasd
-
+njkn,
 ## 🔨 Technical Skills
 dsfafdsa
 ### 🧠 Languagessdafdafs
