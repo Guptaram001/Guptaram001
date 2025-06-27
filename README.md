@@ -5,7 +5,7 @@
 
  ---
 
-## 💻 About Me
+## 💻 About MesadA
 
 🎓 Research Scholar | M.Sc. Computer Science @ Phillipps University Marburg, Germany  
 🧠 Passionate about ML, AI, NLP, and Retrieval-Augmented Generation  
@@ -16,7 +16,7 @@
  ---dsfafasd
 
 ## 🔨 Technical Skills
-dsfa
+dsfafdsa
 ### 🧠 Languagessdafdafs
 - Python, Java, C, C#
 
