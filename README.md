@@ -8,7 +8,7 @@ I have always been fascinated by how the human brain learns and adapts, but disc
 ## 💻 About Me
 
 🎓 Research Scholar | M.Sc. Computer Science @ Phillipps University Marburg, Germany  
-🧠 Passionate about Data Engineering, ML, AI, and Retrieval Augmented Generation  
+🧠 Passionate about Data Engineering, ML, AI, and Retrieval Augmented Generation and Network Security.  
 📚 Exploring Explainable AI, Multilingual Models, Data Profiling, Data Integration and Scalable System  
 🔭 Working on Scalable and Incremental Inclusion Dependency Discovery
 
@@ -22,7 +22,7 @@ I have always been fascinated by how the human brain learns and adapts, but disc
 
 ### ⚙️ Frameworks & Libraries
 
-- **Web & App**: CodeIgniter, Android Studio, Streamlit, Bootstrap, jQuery
+- **Web & App**: CodeIgniter, Android Studio, Streamlit, Bootstrap
 - **AI/ML**: LangChain, Hugging Face Transformers
 - **Distributed Systems**: Apache Spark, Akka, Apache Sedona
 
@@ -30,21 +30,20 @@ I have always been fascinated by how the human brain learns and adapts, but disc
 
 - Machine Learning, Deep Neural Networks
 - NLP, RAG, LLMs, XAI, Prompt Engineering
-- Data Visualization: Tableau, Power BI Matplotlib, Seaborn, Plotly
+- Data Visualization: Power BI Matplotlib, Seaborn
 
 ### 🗄️ Databases
 
-- SQL, PostgreSQL, Neo4j, SQLite, Redis, MongoDB, MySQL,
+- SQL, PostgreSQL, Neo4j, Redis, MongoDB
 
 ### 🌐 Web Development & Design
 
 - HTML, CSS, React, FastAPI
-- Bootstrap, Figma
 
 ### 🛠️ Tools & Platforms
 
 - Git, GitHub, Jupyter Notebook, VS Code
-- Google Colab, Linux Shell, Docker
+- Google Colab, Linux, Docker
 
 ---
 
@@ -56,7 +55,7 @@ CuRAG is a research driven system for automated extraction of information from s
 
 #### Features
 
-- Automated information extraction from scientific papers
+- Information extraction from scientific papers
 - Knowledge graph construction using Neo4j
 - Web interface for graph curation and validation
 - Support for editing nodes, relationships, and metadata
@@ -91,7 +90,7 @@ This project implements a distributed system for discovering Inclusion Dependenc
 #### Features
 
 - Distributed computation of Inclusion Dependencies (INDs)
-- Actor-based parallel processing using Akka
+- Actor based parallel processing using Akka
 - Scalable architecture for handling large datasets
 - Optimized task partitioning and asynchronous execution
 - Performance-focused design for large attribute sets
@@ -146,8 +145,9 @@ Python · PyTorch · Transformers · BERT · RoBERTa · DistilBERT · Optuna · 
 
 ## 📫 Let's Connect!
 
+- 🌐 [Website](https://guptaram001.github.io/portfolio)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ram-gupta-49a586b9/)
-- 🌐 [GitHub](https://github.com/Guptaram001)
+- 🐙 [GitHub](https://github.com/Guptaram001)
 - 📊 [Kaggle](https://www.kaggle.com/rambinaygupta)
 - ✉️ [Email](mailto:gupta_ram01@hotmail.com)
 
