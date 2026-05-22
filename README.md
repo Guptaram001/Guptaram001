@@ -11,7 +11,7 @@ I have always been fascinated by how the human brain learns and adapts, but disc
 🧠 Passionate about Data Engineering, ML, AI, and Retrieval Augmented Generation and Network Security.  
 📚 Exploring Explainable AI, Multilingual Models, Data Profiling, Data Integration and Scalable System  
 🔭 Working on Scalable and Incremental Inclusion Dependency Discovery  
-🌱 Want to know more about me?  Visit: [My Portfolio](https://your-link-here.com)
+🌱 Want to know more about me?  Visit: [My Portfolio](https://guptaram001.github.io/portfolio)
 
 ---
 
