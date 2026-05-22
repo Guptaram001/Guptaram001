@@ -10,7 +10,8 @@ I have always been fascinated by how the human brain learns and adapts, but disc
 🎓 Research Scholar | M.Sc. Computer Science @ Phillipps University Marburg, Germany  
 🧠 Passionate about Data Engineering, ML, AI, and Retrieval Augmented Generation and Network Security.  
 📚 Exploring Explainable AI, Multilingual Models, Data Profiling, Data Integration and Scalable System  
-🔭 Working on Scalable and Incremental Inclusion Dependency Discovery
+🔭 Working on Scalable and Incremental Inclusion Dependency Discovery  
+🌱 Want to know more about me?  Visit: [My Portfolio](https://your-link-here.com)
 
 ---
 
